@@ -12,29 +12,33 @@
 - Framework : 전자정부 프레임워크, Spring
 - QRM Framework : myBatis(iBatis), Hibernate
 - WAS : Apache, Tomcat
-- Tools : Putty, SecureCRT, VMware, SQL Developer, SQL Gate, JMeter
+- Tools : Putty, SecureCRT, VMware, SQL Developer, SQL Gate, Toad, JMeter
 
+## Career
 
+- 한국전력공사 검침서버 관리 및 구축
+담당업무 : DB 환경 세팅, 대용량 스토리지 3대, 웹서버 2대, DB 서버 2대 이중화 구축 
+사용 기술 : 리눅스, HP-UX, 오라클 DB
 
+- 한국전력공사 차세대 원격검침 시스템 개발
+담당 업무 : 대용량 웹서비스 개발
+사용 기술 : JAVA, java script, Extjs, Apache tomcat
 
+- 한국전력공사 도서발전 시스템 개발
+담당 업무 : 웹서비스 개발
+사용 기술 : JAVA, JSP, iBatis, Apache tomcat
 
+- 전력거래소 차세대 검침 시스템 개발
+담당 업무 : 웹서비스 개발
+사용 기술 : JAVA, java script, Apache
 
+- 한국전력공사 통합서버 도입에 따른 데이터 마이그레이션 
+담당 업무 : 한국전력공사 통합서버 구축에 따른 전력 데이터 마이그레이션
+사용 기술 : 오라클, 리눅스, 데이터 Import 기술, 데이터 Export 기술 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- 한국전력공사 원격검침을 위한 통합서버 구축 및 데이터베이스 환경
+담당 업무 : 서버 구축에 따른 DB 환경 구성
+사용 기술 : DB 튜닝, 인덱스, 트리거 등 구성
 
 
 [경력 분야]
