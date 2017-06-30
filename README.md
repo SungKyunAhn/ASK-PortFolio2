@@ -2,7 +2,7 @@
 
 - Major Job : 
 
-# Program Skills
+## Program Skills
 - OS : Red Hat, Ubuntu, centos, HP-UX
 - Front-end Language : Extjs, JSP, java script, CSS, HTML5
 - Back-end Language : Java, C++
@@ -12,14 +12,14 @@
 - WAS : Apache, Tomcat
 - Tools : Putty, SecureCRT, VMware, VirtualBox, SQL Developer, SQL Gate, Toad, JMeter
 
-# Career
+## Career
 
-## 한국전력공사 차세대 원격검침 시스템 개발
+### 한국전력공사 차세대 원격검침 시스템 개발
 -개요 : 한국전력공사 14개
 -담당 업무 : 대용량 웹서비스 개발 MVC 모델을 이용한 웹 애플리케이션 개발
 -사용 기술 : JAVA, java script, Extjs, Apache tomcat
 
-## 한국전력공사 검침서버 관리 및 구축
+### 한국전력공사 검침서버 관리 및 구축
 담당업무 : DB 환경 세팅, 대용량 스토리지 3대, 웹서버 2대, DB 서버 2대 이중화 구축 
 사용 기술 : 리눅스, HP-UX, 오라클 DB
 
