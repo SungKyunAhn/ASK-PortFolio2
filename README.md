@@ -1,4 +1,4 @@
-# PotoFolio
+# PotoFolio(https://github.com/SungKyunAhn/sungkyunahn.github.com/edit/master/README.md)
 
 - Major Job : 
 
@@ -16,7 +16,7 @@
 
 ## Career
 
-#### 한국전력공사 차세대 원격검침 시스템 개발
+#### [한국전력공사 차세대 원격검침 시스템 개발](https://github.com/SungKyunAhn/sungkyunahn.github.com/edit/master/README.md)
 * 개요 : 한국전력공사 14개 지사의 전력데이터를 조회할 수 있는 시스템 구축
 * 담당 업무 : 대용량 웹서비스 개발 MVC 모델을 이용한 웹 애플리케이션 개발
 * 사용 기술 : JAVA, java script, Extjs, Apache tomcat, Oracle, Hibernate
@@ -75,22 +75,24 @@
 5. 자기공명 방식의 무선전력시스템 관련 RLC 회로 개발
   
 
-### 연구 경력
+## 연구 경력
 1. 스케일러블 비디오 코딩을 고려한 차세대 이동통신모뎀 C/C++로 설계 
 2. 3GPP M2M 통신 네트워크 방식 연구
 3. 무선링크에서 기본계층의 반복과 Hybrid ARQ를 적용한 H.264 SVC의 성능 향상 연구
 4. JAVA와 XML문서 연동하여 서울시 실시간 대기오염도 측정 MVC2 모델 구현
 5. JAVA, Oracle DB, 웹 프로그래밍 JSP 기반의 ERP 시스템 전체를 ERD 모델링부터 웹 페이지 개발까지 MVC2 모델로 설계
 
-#### 관련 논문
+## 관련 논문
 [1] “무선링크에서 기본 계층의 반복과 HARQ를 적용한 H.264 SVC의 성능”, 한국통신학회논문지 게제 
 [2] “Bit Repetition and HARQ for Base Layer in H.264 SVC over Wireless Link”, submitted for IEICE transactions on communication
 [3] "무선링크에서 H.264 SVC 기본계층 신뢰도 향상을 위해 비트 반복 전송", 한국통신학회 하계학술대회 발표 논문
 [4] “무선링크에서 H.264 SVC 기본계층의 반복 전송과 HARQ”, 한국통신학회 동계학술대회 발표 논문
 
+
 You can use the [editor on GitHub](https://github.com/SungKyunAhn/sungkyunahn.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
