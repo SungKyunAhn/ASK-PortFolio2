@@ -57,14 +57,14 @@
 * 사용 기술 : JAVA, JSP, Extjs, Apache tomcat, Oracle, Hibernate
 
 #### 우즈베키스탄 가스검침 시스템 개발
-* 개요 : 
-* 담당 업무 : 한국전력공사 통합서버 구축에 따른 전력 데이터 마이그레이션
+* 개요 : 우즈베키스탄 AMI 가스검침 시스템
+* 담당 업무 : 웹 애플리케이션 개발 및 Spring 애플리케이션 서버 개발, 서버측 프로토콜 개발
 * 사용 기술 : JAVA, JSP, Extjs, Apache tomcat, Oracle, Hibernate
 
 #### 이종분산 전원 관리
-* 개요 : 
-* 담당 업무 : 한국전력공사 통합서버 구축에 따른 전력 데이터 마이그레이션
-* 사용 기술 : 오라클, 리눅스, 데이터 Import 기술, 데이터 Export 기술 
+* 개요 : EMS 빌딩 전력제어관리 시스템 개발
+* 담당 업무 : 웹 애플리케이션 개발 및 LED ON/OFF, DIMING 기능 개발
+* 사용 기술 : JAVA, JSP, Extjs, Apache tomcat, Oracle, Hibernate
 
 
 ### 대학원 연구 경력
@@ -87,39 +87,6 @@
 [2] “Bit Repetition and HARQ for Base Layer in H.264 SVC over Wireless Link”, submitted for IEICE transactions on communication
 [3] "무선링크에서 H.264 SVC 기본계층 신뢰도 향상을 위해 비트 반복 전송", 한국통신학회 하계학술대회 발표 논문
 [4] “무선링크에서 H.264 SVC 기본계층의 반복 전송과 HARQ”, 한국통신학회 동계학술대회 발표 논문
-
-
-
-
-@@ -12,7 +12,7 @@
-  * 참여도: **40%**
-  * 검색 결과 데이터 요청 및 출력: jQuery, Ajax, JSON
-  * 웹 화면 구성: HTML, CSS, BootStrap, JavaScript
- -* 결과를 얻어오기 위한 서버 액션: JAVA, Servlet, JSP, EL
- +* 결과를 얻어오기 위한 서버 액션: JAVA, Servlet, JSP, JSTL, EL
-  * DB액션 처리: JDBC
-  * 개발 Tool : Eclips, Atom, SVN, Apache Tomcat v8.0, VisualSVN Server Manager
-  <br>
- @@ -25,7 +25,7 @@
-  
-  ### 공헌한 내용
-  * 참여도: **개인프로젝트**
- -* JAVA, **Spring, MyBatis, SpringSecurity**, 이미지 파일 업로드, JSP, EL
- +* JAVA, **Spring, MyBatis, SpringSecurity**, 이미지 파일 업로드, JSP, JSTL, EL
-  * Git(SourceTree), GitHub
-  * HTML, CSS, BootStrap, JavaScript, jQuery
-  * Spring Tool Suite, Oracle, Apache Tomcat v8.0
- @@ -39,7 +39,7 @@
-  
-  ### 공헌한 내용
-  * 참여도: **개인프로젝트**
- -* JAVA, **Spring, MyBatis, SpringSecurity**, JSP, EL
- +* JAVA, **Spring, MyBatis, SpringSecurity**, JSP, JSTL, EL
-  * Git(SourceTree), GitHub
-  * HTML, CSS, BootStrap, JavaScript, jQuery
-  * Eclipse, Atom, Oracle, Apache Tomcat v8.0
-
-
 
 You can use the [editor on GitHub](https://github.com/SungKyunAhn/sungkyunahn.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
