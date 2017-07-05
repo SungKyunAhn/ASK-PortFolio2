@@ -56,12 +56,12 @@
 * 담당 업무 : 웹 애플리케이션 개발 및 Spring 애플리케이션 서버 개발, Lora 서버측 프로토콜 개발
 * 사용 기술 : JAVA, JSP, Extjs, Apache tomcat, Oracle, Hibernate
 
-#### [우즈베키스탄 가스검침 시스템 개발](https://172.16.10.120:8085/aimir-web)
+#### [우즈베키스탄 가스검침 시스템 개발](http://172.16.10.120:8085/aimir-web)
 * 개요 : 우즈베키스탄 AMI 가스검침 시스템
 * 담당 업무 : 웹 애플리케이션 개발 및 Spring 애플리케이션 서버 개발, 서버측 프로토콜 개발
 * 사용 기술 : JAVA, JSP, Extjs, Apache tomcat, Oracle, Hibernate
 
-#### [이종분산 전원 관리](https://172.16.10.35:8095/aimir-web)
+#### [이종분산 전원 관리](http://172.16.10.35:8095/aimir-web)
 * 개요 : EMS 빌딩 전력제어관리 시스템 개발
 * 담당 업무 : 웹 애플리케이션 개발 및 LED ON/OFF, DIMING 기능 개발
 * 사용 기술 : JAVA, JSP, Extjs, Apache tomcat, Oracle, Hibernate
