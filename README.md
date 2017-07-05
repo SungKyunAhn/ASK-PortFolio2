@@ -1,6 +1,6 @@
 # PotoFolio
 
-- Major Job : 
+- Major Job : 원격검침 분야의 통신 프로토콜 및 서버 개발, 웹 애플리케이션 개발                                           
 
 
 ## Program Skills
@@ -51,7 +51,7 @@
 * 담당 업무 : 데이터 이관 및 백업, 마이그레이션 업무 수행      
 * 사용 기술 : 오라클, linux, 데이터 Import, Export
 
-#### [SKT Lora IoT 이란가스검침 개발](https://github.com/SungKyunAhn/sungkyunahn.github.com/edit/master/README.md)
+#### [SKT Lora IoT 이란가스검침 개발](http://172.16.10.120:8085/aimir-web)
 * 개요 : Lora 망을 이용한 AMI 가스검침 시스템
 * 담당 업무 : 웹 애플리케이션 개발 및 Spring 애플리케이션 서버 개발, Lora 서버측 프로토콜 개발
 * 사용 기술 : JAVA, JSP, Extjs, Apache tomcat, Oracle, Hibernate
@@ -65,6 +65,7 @@
 * 개요 : EMS 빌딩 전력제어관리 시스템 개발
 * 담당 업무 : 웹 애플리케이션 개발 및 LED ON/OFF, DIMING 기능 개발
 * 사용 기술 : JAVA, JSP, Extjs, Apache tomcat, Oracle, Hibernate
+
 
 
 ### 대학원 연구 경력
@@ -82,46 +83,9 @@
 4. JAVA와 XML문서 연동하여 서울시 실시간 대기오염도 측정 MVC2 모델 구현
 5. JAVA, Oracle DB, 웹 프로그래밍 JSP 기반의 ERP 시스템 전체를 ERD 모델링부터 웹 페이지 개발까지 MVC2 모델로 설계
 
+
 ## 관련 논문
-[1] “무선링크에서 기본 계층의 반복과 HARQ를 적용한 H.264 SVC의 성능”, 한국통신학회논문지 게제 
-[2] “Bit Repetition and HARQ for Base Layer in H.264 SVC over Wireless Link”, submitted for IEICE transactions on communication
-[3] "무선링크에서 H.264 SVC 기본계층 신뢰도 향상을 위해 비트 반복 전송", 한국통신학회 하계학술대회 발표 논문
-[4] “무선링크에서 H.264 SVC 기본계층의 반복 전송과 HARQ”, 한국통신학회 동계학술대회 발표 논문
-
-
-You can use the [editor on GitHub](https://github.com/SungKyunAhn/sungkyunahn.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SungKyunAhn/sungkyunahn.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. “무선링크에서 기본 계층의 반복과 HARQ를 적용한 H.264 SVC의 성능”, 한국통신학회논문지 게제
+2. “Bit Repetition and HARQ for Base Layer in H.264 SVC over Wireless Link”, submitted for IEICE transactions on communication
+3. "무선링크에서 H.264 SVC 기본계층 신뢰도 향상을 위해 비트 반복 전송", 한국통신학회 하계학술대회 발표 논문
+4. “무선링크에서 H.264 SVC 기본계층의 반복 전송과 HARQ”, 한국통신학회 동계학술대회 발표 논문
