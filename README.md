@@ -16,52 +16,52 @@
 
 ## Career
 
-#### 한국전력공사 차세대 원격검침 시스템 개발 [바로가기](https://sungkyunahn.github.io/Kepco-AMISystem)
+#### [한국전력공사 차세대 원격검침 시스템 개발] (https://sungkyunahn.github.io/Kepco-AMISystem)
 * 개요 : 한국전력공사 14개 지사의 전력데이터를 조회할 수 있는 시스템 구축
 * 담당 업무 : 대용량 웹서비스 개발 MVC 모델을 이용한 웹 애플리케이션 개발
 * 사용 기술 : JAVA, java script, Extjs, Apache tomcat, Oracle, Hibernate
 
-#### 한국전력공사 14지사 원격검침을 위한 통합서버 구축 및 DB 구성 [바로가기](https://github.com/SungKyunAhn/sungkyunahn.github.com/edit/master/README.md)
+#### [한국전력공사 14지사 원격검침을 위한 통합서버 구축 및 DB 구성] (https://sungkyunahn.github.io/Kepco-AMISystem)
 * 개요 : 한국전력공사 14개 지사를 통합하는 검침 서버구축
 * 담당 업무 : 서버 구축에 따른 DB 환경 세팅 및 서버 구성 및 관리
 * 사용 기술 : Oracle DB, SQL, Hibernate, linux
 
-#### 한국전력공사 통합 원격검침 서버 관리 및 운영 [바로가기](https://github.com/SungKyunAhn/sungkyunahn.github.com/edit/master/README.md)
+#### [한국전력공사 통합 원격검침 서버 관리 및 운영] (https://sungkyunahn.github.io/Kepco-AMISystem)
 * 개요 : 한국전력공사 통합 서버 관리 및 운영                            
 * 담당업무 : 서버관리 업무 수행, Oracle DB 세팅, 원격검침서버 2대, 웹서버 3대, 대용량 스토리지 3대, DB 서버 2대 이중화로 관리
 * 사용 기술 : linux, HP-UX, 오라클 DB
 
-#### 한국전력공사 도서발전 시스템 개발 [바로가기](https://github.com/SungKyunAhn/sungkyunahn.github.com/edit/master/README.md)
+#### [한국전력공사 도서발전 시스템 개발] (https://sungkyunahn.github.io/Kepco-AMISystem)
 * 개요 : 한국전력공사 도서지역 원격 검침 시스템 구축
 * 담당 업무 : 오라클 DB 연동 웹 애플리케이션 개발
 * 사용 기술 : JAVA, JSP, iBatis, Apache tomcat, Oracle
 
-#### 전력거래소 차세대 검침 시스템 개발 [바로가기](https://github.com/SungKyunAhn/sungkyunahn.github.com/edit/master/README.md)
+#### [전력거래소 차세대 검침 시스템 개발] (https://sungkyunahn.github.io/Kepco-AMISystem)
 * 개요 : 전력거래소(KPX) 차세대 전력 및 친환경 에너지 검침 시스템 개발
 * 담당 업무 : 웹서비스 개발
 * 사용 기술 : JAVA, java script, Apache, weblogic 
 
-#### 한국전력공사 이동형충전기 연계 시스템 개발 [바로가기](https://github.com/SungKyunAhn/sungkyunahn.github.com/edit/master/README.md)
+#### [한국전력공사 이동형충전기 연계 시스템 개발] (https://sungkyunahn.github.io/Kepco-AMISystem)
 * 개요 : 전기자동차 충전시 사용되는 전력 관리 및 사용량 측정, 조회 시스템                      
 * 담당 업무 : 웹 애플리케이션 개발
 * 사용 기술 : JAVA, JSP, Extjs, Apache tomcat, Oracle, Hibernate
 
-#### 한국전력공사 통합서버 도입에 따른 데이터 마이그레이션 [바로가기](https://github.com/SungKyunAhn/sungkyunahn.github.com/edit/master/README.md)
+#### [한국전력공사 통합서버 도입에 따른 데이터 마이그레이션] (https://sungkyunahn.github.io/Kepco-AMISystem)
 * 개요 : 한국전력공사 14개 지사 데이터 통합                     
 * 담당 업무 : 데이터 이관 및 백업, 마이그레이션 업무 수행      
 * 사용 기술 : 오라클, linux, 데이터 Import, Export
 
-#### SKT Lora IoT 이란가스검침 개발 [바로가기](http://172.16.10.120:8085/aimir-web)
+#### [SKT Lora IoT 이란가스검침 개발] (https://sungkyunahn.github.io/Kepco-AMISystem)
 * 개요 : Lora 망을 이용한 AMI 가스검침 시스템
 * 담당 업무 : 웹 애플리케이션 개발 및 Spring 애플리케이션 서버 개발, Lora 서버측 프로토콜 개발
 * 사용 기술 : JAVA, JSP, Extjs, Apache tomcat, Oracle, Hibernate
 
-#### 우즈베키스탄 가스검침 시스템 개발 [바로가기](http://172.16.10.120:8085/aimir-web)
+#### [우즈베키스탄 가스검침 시스템 개발] (https://sungkyunahn.github.io/Kepco-AMISystem)
 * 개요 : 우즈베키스탄 AMI 가스검침 시스템
 * 담당 업무 : 웹 애플리케이션 개발 및 Spring 애플리케이션 서버 개발, 서버측 프로토콜 개발
 * 사용 기술 : JAVA, JSP, Extjs, Apache tomcat, Oracle, Hibernate
 
-#### 이종분산 전원 관리 [바로가기](http://172.16.10.35:8095/aimir-web)
+#### [이종분산 전원 관리] (https://sungkyunahn.github.io/Kepco-AMISystem)
 * 개요 : EMS 빌딩 전력제어관리 시스템 개발
 * 담당 업무 : 웹 애플리케이션 개발 및 LED ON/OFF, DIMING 기능 개발
 * 사용 기술 : JAVA, JSP, Extjs, Apache tomcat, Oracle, Hibernate
