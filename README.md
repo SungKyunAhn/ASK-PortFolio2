@@ -16,7 +16,7 @@
 
 ## Career
 
-#### [한국전력공사 차세대 원격검침 시스템 개발] (https://sungkyunahn.github.io/Kepco-AMISystem)
+#### [한국전력공사 차세대 원격검침 시스템 개발](https://sungkyunahn.github.io/Kepco-AMISystem)
 * 개요 : 한국전력공사 14개 지사의 전력데이터를 조회할 수 있는 시스템 구축
 * 담당 업무 : 대용량 웹서비스 개발 MVC 모델을 이용한 웹 애플리케이션 개발
 * 사용 기술 : JAVA, java script, Extjs, Apache tomcat, Oracle, Hibernate
