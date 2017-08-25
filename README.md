@@ -1,4 +1,4 @@
-# PotoFolio
+# PortFolio
 
 - Major Job : 원격검침 분야의 통신 프로토콜 및 서버 개발, 웹 애플리케이션 개발                                           
 
